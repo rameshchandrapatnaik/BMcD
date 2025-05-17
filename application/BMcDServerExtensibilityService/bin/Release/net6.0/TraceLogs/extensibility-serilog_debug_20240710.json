@@ -1,0 +1,51 @@
+{"Timestamp":"2024-07-10T11:01:56.6427431+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-10T11:01:56.7288337+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-10T11:01:58.1353801+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-10T11:01:58.1953925+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-10T11:01:58.2042141+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-10T11:01:58.1962648+05:30"}}
+{"Timestamp":"2024-07-10T11:02:58.6499103+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-10T11:02:58.6560251+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WP2002A"}
+{"Timestamp":"2024-07-10T11:02:58.6599911+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WP2002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-10T11:03:07.1673836+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6WP3000A"}
+{"Timestamp":"2024-07-10T11:06:14.7488701+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-10T11:06:14.7490403+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WP6002A"}
+{"Timestamp":"2024-07-10T11:09:08.2185439+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WP6002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-10T11:09:17.7403181+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6WP7000A"}
+{"Timestamp":"2024-07-10T11:26:06.1222779+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-10T11:26:06.2098492+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-10T11:26:07.5489081+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-10T11:26:07.6440598+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-10T11:26:07.6528261+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-10T11:26:07.6449195+05:30"}}
+{"Timestamp":"2024-07-10T11:26:14.8233011+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-10T11:26:14.8284617+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WP9002A"}
+{"Timestamp":"2024-07-10T11:26:23.0532692+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WP9002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-10T11:26:52.6811972+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6WPA000A"}
+{"Timestamp":"2024-07-10T12:18:31.7246316+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-10T12:18:31.8065262+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-10T12:18:32.6795027+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-10T12:18:32.7388244+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-10T12:18:32.7475125+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-10T12:18:32.7396815+05:30"}}
+{"Timestamp":"2024-07-10T12:19:02.2755199+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-10T12:19:02.2855393+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WPI002A"}
+{"Timestamp":"2024-07-10T12:19:07.3090838+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WPI002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-10T12:19:12.2360010+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6WPJ000A"}
+{"Timestamp":"2024-07-10T13:18:32.8014796+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-10T13:18:32.8020574+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-10T13:18:32.8020885+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-10T13:18:33.2930263+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-10T13:18:33.2949966+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-10T14:18:33.3531048+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-10T14:18:33.3534724+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-10T14:18:33.3535094+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-10T14:18:43.4437782+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-10T14:18:43.4442972+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-10T15:18:43.4865976+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-10T15:18:43.4869346+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-10T15:18:43.4869616+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-10T15:18:52.5709351+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-10T15:18:52.5715138+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-10T16:18:52.6224388+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-10T16:18:52.6227907+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-10T16:18:52.6228294+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-10T16:19:03.3551639+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-10T16:19:03.3556733+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}

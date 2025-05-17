@@ -1,0 +1,192 @@
+{"Timestamp":"2024-07-15T13:18:15.0477246+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-15T13:18:15.1659821+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-15T13:18:18.7884472+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T13:18:18.9691823+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-15T13:18:18.9778746+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-15T13:18:18.9700391+05:30"}}
+{"Timestamp":"2024-07-15T13:18:54.0103448+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T13:18:54.0153108+05:30","Level":"Information","MessageTemplate":"Payload OBID:6XIK002A"}
+{"Timestamp":"2024-07-15T13:19:03.9295665+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6XIK002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T13:22:15.5530605+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6XIL000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T13:23:00.7612639+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6XIL000A"}
+{"Timestamp":"2024-07-15T13:24:15.9115194+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T13:24:15.9116831+05:30","Level":"Information","MessageTemplate":"Payload OBID:6XIO002A"}
+{"Timestamp":"2024-07-15T13:24:41.7002884+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6XIO002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T13:31:30.1944396+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6XIP000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T13:34:10.1769614+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6XIP000A"}
+{"Timestamp":"2024-07-15T13:43:43.8756834+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T13:43:43.8759789+05:30","Level":"Information","MessageTemplate":"Payload OBID:6XIS002A"}
+{"Timestamp":"2024-07-15T13:43:49.1157034+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6XIS002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T13:43:52.7237501+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6XIT000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T13:48:35.6963931+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6XIT000A"}
+{"Timestamp":"2024-07-15T13:48:37.8165327+05:30","Level":"Information","MessageTemplate":"ReceiverLink has closed, recreating ReceiverLink"}
+{"Timestamp":"2024-07-15T13:48:37.8177245+05:30","Level":"Information","MessageTemplate":"Session has closed, recreating session"}
+{"Timestamp":"2024-07-15T13:48:37.8178661+05:30","Level":"Information","MessageTemplate":"Connection has closed, recreating connection"}
+{"Timestamp":"2024-07-15T14:18:19.0090669+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-15T14:18:19.0096369+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-15T14:18:19.0096664+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-15T14:18:19.4615365+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T14:18:19.4636605+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-15T15:18:19.4988545+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-15T15:18:19.4996662+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-15T15:18:19.4997220+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-15T15:18:29.0978091+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T15:18:29.0982225+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-15T16:03:01.2847612+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-15T16:03:01.3611754+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-15T16:03:02.9254990+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T16:03:02.9849185+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-15T16:03:02.9936122+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-15T16:03:02.9857367+05:30"}}
+{"Timestamp":"2024-07-15T16:03:04.1394565+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T16:03:04.1478767+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMFM002A"}
+{"Timestamp":"2024-07-15T16:03:11.9844903+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMFM002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T16:03:21.0548566+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMFN000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T16:03:26.0819110+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMFN000A"}
+{"Timestamp":"2024-07-15T16:07:19.7330732+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-15T16:07:19.8025625+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-15T16:07:20.8320445+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T16:07:20.8628273+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-15T16:07:20.8716460+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-15T16:07:20.8636473+05:30"}}
+{"Timestamp":"2024-07-15T16:07:34.9647807+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T16:07:34.9696903+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMFQ002A"}
+{"Timestamp":"2024-07-15T16:07:43.1606263+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMFQ002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T16:07:44.6841931+05:30","Level":"Error","MessageTemplate":"Exception occurred while executing AutoStamp on consolidated document WF Step.Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') --    at System.Collections.Generic.List`1.get_Item(Int32 index)\r\n   at MPLServerExtensibilityService.Custom.ProcessSteps.TestStamp.Execute(ExtensibilityODataClient extensibilityODataClient, Object body) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\ProcessSteps\\TestStamp.cs:line 74"}
+{"Timestamp":"2024-07-15T16:10:03.3927888+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-15T16:10:03.4656455+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-15T16:10:04.5235947+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T16:10:04.5514096+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-15T16:10:04.5605070+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-15T16:10:04.5522336+05:30"}}
+{"Timestamp":"2024-07-15T16:11:45.2704590+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T16:11:45.2809544+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMFS002A"}
+{"Timestamp":"2024-07-15T16:11:52.0823605+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMFS002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T16:13:34.3745961+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-15T16:13:34.4390147+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-15T16:13:35.4563574+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T16:13:35.4857373+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-15T16:13:35.4943227+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-15T16:13:35.4865604+05:30"}}
+{"Timestamp":"2024-07-15T16:14:32.7831356+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-15T16:14:32.8565840+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-15T16:14:33.9828782+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T16:14:34.0110508+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-15T16:14:34.0196301+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-15T16:14:34.0118431+05:30"}}
+{"Timestamp":"2024-07-15T16:14:51.7860948+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T16:14:51.7909847+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMFT002A"}
+{"Timestamp":"2024-07-15T16:14:58.0530179+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMFT002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T16:17:14.4589879+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMFU000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T16:17:29.3830625+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMFU000A"}
+{"Timestamp":"2024-07-15T16:19:37.9525234+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T16:19:37.9527033+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMFY002A"}
+{"Timestamp":"2024-07-15T16:19:45.4250143+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMFY002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T16:20:24.1734907+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMFZ000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T16:20:40.9615269+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMFZ000A"}
+{"Timestamp":"2024-07-15T16:27:27.1756890+05:30","Level":"Information","MessageTemplate":"FileOperations Event type not handled"}
+{"Timestamp":"2024-07-15T16:37:29.9730835+05:30","Level":"Information","MessageTemplate":"FileOperations Event type not handled"}
+{"Timestamp":"2024-07-15T16:41:05.7586835+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T16:41:05.7589177+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMG7002A"}
+{"Timestamp":"2024-07-15T16:41:27.2614341+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMG7002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T16:41:32.0527081+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMG8000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T16:41:37.0280830+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMG8000A"}
+{"Timestamp":"2024-07-15T16:49:52.0817147+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T16:49:52.0818803+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMGC002A"}
+{"Timestamp":"2024-07-15T16:50:00.9950659+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGC002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T16:50:04.7879802+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGD000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T16:50:11.8718695+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMGD000A"}
+{"Timestamp":"2024-07-15T16:58:59.6982803+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-15T16:58:59.7749283+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-15T16:59:01.2955470+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T16:59:01.3610632+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-15T16:59:01.3696313+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-15T16:59:01.3618924+05:30"}}
+{"Timestamp":"2024-07-15T17:05:02.9989087+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T17:05:03.0078410+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMGK002A"}
+{"Timestamp":"2024-07-15T17:05:05.5072715+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGK002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T17:05:26.0082922+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGL000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T17:05:40.6038080+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMGL000A"}
+{"Timestamp":"2024-07-15T17:08:06.3100491+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T17:08:06.3102326+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMGO002A"}
+{"Timestamp":"2024-07-15T17:08:12.1782048+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGO002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T17:08:20.7836305+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGP000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T17:08:40.2765471+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMGP000A"}
+{"Timestamp":"2024-07-15T17:23:39.8762646+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T17:23:39.8765245+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMGT002A"}
+{"Timestamp":"2024-07-15T17:23:46.9810682+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGT002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T17:23:57.4335664+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGU000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T17:24:02.2750013+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMGU000A"}
+{"Timestamp":"2024-07-15T17:30:02.0163471+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T17:30:02.0165035+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMGX002A"}
+{"Timestamp":"2024-07-15T17:30:18.7372312+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGX002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T17:30:48.5908978+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMGY000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T17:31:52.2480516+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMGY000A"}
+{"Timestamp":"2024-07-15T17:37:12.8059931+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T17:37:12.8061590+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMH1002A"}
+{"Timestamp":"2024-07-15T17:37:34.2293768+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMH1002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T17:37:37.4267090+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMH2000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T17:37:41.0682809+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMH2000A"}
+{"Timestamp":"2024-07-15T17:40:41.9675265+05:30","Level":"Information","MessageTemplate":"FileOperations Event type not handled"}
+{"Timestamp":"2024-07-15T17:42:16.5230771+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T17:42:16.5232419+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMH5002A"}
+{"Timestamp":"2024-07-15T17:42:21.2396034+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMH5002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T17:42:24.7859483+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMH6000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T17:42:29.1626966+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMH6000A"}
+{"Timestamp":"2024-07-15T17:45:54.7012903+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T17:45:54.7014470+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMHD002A"}
+{"Timestamp":"2024-07-15T17:46:17.1167826+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMHD002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T17:46:38.6688476+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMHE000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T17:47:18.7960133+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMHE000A"}
+{"Timestamp":"2024-07-15T17:55:57.4472586+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T17:55:57.4475232+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMHL002A"}
+{"Timestamp":"2024-07-15T17:56:13.6239858+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMHL002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T17:56:19.0308257+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMHM000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T17:56:23.3726413+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMHM000A"}
+{"Timestamp":"2024-07-15T17:59:01.4075094+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-15T17:59:01.4079679+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-15T17:59:01.4079975+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-15T17:59:01.6819286+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T17:59:01.6836228+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-15T18:05:07.9148559+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T18:05:07.9150210+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMHP002A"}
+{"Timestamp":"2024-07-15T18:05:34.5421929+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMHP002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T18:05:56.8904284+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMHQ000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T18:07:42.7769384+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMHQ000A"}
+{"Timestamp":"2024-07-15T18:09:20.7716391+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T18:09:20.7718023+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMHT002A"}
+{"Timestamp":"2024-07-15T18:09:26.1036774+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMHT002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T18:09:28.1470818+05:30","Level":"Error","MessageTemplate":"Exception occurred while executing AutoStamp on consolidated document WF Step.Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') --    at System.Collections.Generic.List`1.get_Item(Int32 index)\r\n   at MPLServerExtensibilityService.Custom.ProcessSteps.TestStamp.Execute(ExtensibilityODataClient extensibilityODataClient, Object body) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\ProcessSteps\\TestStamp.cs:line 74"}
+{"Timestamp":"2024-07-15T18:10:11.7625758+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-15T18:10:11.8397725+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-15T18:10:13.3210835+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T18:10:13.3784251+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-15T18:10:13.3874601+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-15T18:10:13.3792589+05:30"}}
+{"Timestamp":"2024-07-15T18:13:07.9799706+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T18:13:07.9848806+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMHW002A"}
+{"Timestamp":"2024-07-15T18:13:14.7761461+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMHW002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T18:13:19.5153094+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMHX000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T18:13:34.9593081+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMHX000A"}
+{"Timestamp":"2024-07-15T18:17:38.9566575+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-15T18:17:38.9568390+05:30","Level":"Information","MessageTemplate":"Payload OBID:CMI4002A"}
+{"Timestamp":"2024-07-15T18:17:46.1581113+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMI4002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-15T18:17:53.8235673+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CMI5000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-15T18:18:06.2930848+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value CMI5000A"}
+{"Timestamp":"2024-07-15T19:10:13.4265549+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-15T19:10:13.4271196+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-15T19:10:13.4271493+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-15T19:10:13.7158646+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T19:10:13.7175654+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-15T20:10:13.7617560+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-15T20:10:13.7620746+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-15T20:10:13.7620982+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-15T20:10:14.1143530+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T20:10:14.1149568+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-15T21:10:14.1633752+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-15T21:10:14.1637153+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-15T21:10:14.1637386+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-15T21:10:14.4485521+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-15T21:10:14.4491480+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-15T22:10:14.4911338+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-15T22:10:14.4915421+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-15T22:10:14.4916518+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-15T22:10:35.5491665+05:30","Level":"Information","MessageTemplate":"An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set."}
+{"Timestamp":"2024-07-15T22:10:35.5800063+05:30","Level":"Error","MessageTemplate":"Error occurred in Token Renewal.","Exception":"System.Exception: An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set.\r\n   at MPLServerExtensibilityService.Core.Services.AuthenticationService.GetOAuthTokenClientCredentialsFlow(String authServerAuthority, String authClientId, String authClientSecret, String serverResourceID, String scope) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Core\\Services\\AuthenticationService.cs:line 49\r\n   at MPLServerExtensibilityService.Core.Services.AuthenticationService.RenewToken(ExtensibilityConfiguration extensibilityConfig) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Core\\Services\\AuthenticationService.cs:line 137\r\n   at MPLServerExtensibilityService.Custom.Workers.AuthenticationHostedService.AuthenticateWithSDx(Object state) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\Workers\\AuthenticationHostedService.cs:line 64"}
+{"Timestamp":"2024-07-15T23:10:14.5350796+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-15T23:10:14.5354777+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-15T23:10:14.5355152+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-15T23:10:35.5597156+05:30","Level":"Information","MessageTemplate":"An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set."}
+{"Timestamp":"2024-07-15T23:10:35.5847948+05:30","Level":"Error","MessageTemplate":"Error occurred in Token Renewal.","Exception":"System.Exception: An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set.\r\n   at MPLServerExtensibilityService.Core.Services.AuthenticationService.GetOAuthTokenClientCredentialsFlow(String authServerAuthority, String authClientId, String authClientSecret, String serverResourceID, String scope) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Core\\Services\\AuthenticationService.cs:line 49\r\n   at MPLServerExtensibilityService.Core.Services.AuthenticationService.RenewToken(ExtensibilityConfiguration extensibilityConfig) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Core\\Services\\AuthenticationService.cs:line 137\r\n   at MPLServerExtensibilityService.Custom.Workers.AuthenticationHostedService.AuthenticateWithSDx(Object state) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\Workers\\AuthenticationHostedService.cs:line 64"}

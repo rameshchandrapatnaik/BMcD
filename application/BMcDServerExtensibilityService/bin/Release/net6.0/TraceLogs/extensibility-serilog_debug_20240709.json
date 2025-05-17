@@ -1,0 +1,113 @@
+{"Timestamp":"2024-07-09T10:47:59.4928713+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T10:47:59.5826596+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T10:48:00.9242243+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T10:48:00.9549704+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T10:48:00.9643777+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T10:48:00.9559027+05:30"}}
+{"Timestamp":"2024-07-09T10:49:54.1248026+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T10:49:54.2042149+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T10:49:55.1353734+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T10:49:55.1645866+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T10:49:55.1733602+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T10:49:55.1654774+05:30"}}
+{"Timestamp":"2024-07-09T10:50:23.8187790+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-09T10:50:23.8245892+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WK2002A"}
+{"Timestamp":"2024-07-09T10:50:31.3262283+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WK2002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T11:09:21.4884403+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WK2002A"}
+{"Timestamp":"2024-07-09T11:10:30.0572192+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WK2002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T11:13:04.7602129+05:30","Level":"Information","MessageTemplate":"Error in handling event from server","Exception":"System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.\r\n ---> System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at MPLServerExtensibilityService.Custom.ProcessSteps.TestStamp.Execute(ExtensibilityODataClient extensibilityODataClient, Object body)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)\r\n   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\r\n   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)\r\n   at MPLServerExtensibilityService.Core.ExtensibilityEventHandler.CallCustomCode(ExtensibilityODataClient extensibilityODataClient, String eventType, List`1 filesToMatch, Object body)\r\n   at MPLServerExtensibilityService.Core.ExtensibilityEventHandler.ProcessEventMessage(ExtensibilityODataClient extensibilityODataClient, String subject, Object body)"}
+{"Timestamp":"2024-07-09T11:13:04.9988154+05:30","Level":"Information","MessageTemplate":"ReceiverLink has closed, recreating ReceiverLink"}
+{"Timestamp":"2024-07-09T11:13:05.0000057+05:30","Level":"Information","MessageTemplate":"Session has closed, recreating session"}
+{"Timestamp":"2024-07-09T11:13:05.0003057+05:30","Level":"Information","MessageTemplate":"Connection has closed, recreating connection"}
+{"Timestamp":"2024-07-09T11:21:21.8386695+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T11:21:21.9415465+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T11:21:31.2924023+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T11:21:31.3238427+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T11:21:31.3326347+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T11:21:31.3247475+05:30"}}
+{"Timestamp":"2024-07-09T11:21:42.1442617+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-09T11:21:42.1581413+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WKC002A"}
+{"Timestamp":"2024-07-09T11:21:42.1605857+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WKC002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T11:24:55.0629680+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T11:24:55.1282656+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T11:24:55.9781538+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T11:24:56.0076998+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T11:24:56.0186511+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T11:24:56.0085508+05:30"}}
+{"Timestamp":"2024-07-09T11:25:21.2903187+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-09T11:25:21.2955021+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WKF002A"}
+{"Timestamp":"2024-07-09T11:25:21.2979239+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WKF002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T11:41:46.5888036+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T11:41:46.6618368+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T11:41:47.6784752+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T11:41:47.7112288+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T11:41:47.7199669+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T11:41:47.7121005+05:30"}}
+{"Timestamp":"2024-07-09T11:42:01.2067512+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-09T11:42:01.2119521+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WKU002A"}
+{"Timestamp":"2024-07-09T11:42:01.2144166+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WKU002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T11:44:30.1622419+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T11:44:30.2376799+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T11:44:31.0473552+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T11:44:31.0755236+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T11:44:31.0843089+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T11:44:31.0763699+05:30"}}
+{"Timestamp":"2024-07-09T11:44:42.6018965+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-09T11:44:42.6114895+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WKX002A"}
+{"Timestamp":"2024-07-09T11:44:42.6140659+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WKX002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T11:44:55.9733706+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6WKY000A"}
+{"Timestamp":"2024-07-09T11:46:33.0947250+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T11:46:33.1652512+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T11:46:33.9969340+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T11:46:34.0329413+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T11:46:34.0416337+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T11:46:34.0338127+05:30"}}
+{"Timestamp":"2024-07-09T11:46:41.2281172+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-09T11:46:41.2336422+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WL0002A"}
+{"Timestamp":"2024-07-09T11:46:41.2363279+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WL0002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T11:46:55.1370359+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6WL1000A"}
+{"Timestamp":"2024-07-09T11:53:41.0448781+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T11:53:41.1108384+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T11:53:41.9451632+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T11:53:41.9753247+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T11:53:41.9844972+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T11:53:41.9762370+05:30"}}
+{"Timestamp":"2024-07-09T11:54:17.4878697+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T11:54:17.5751277+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T11:54:18.3809033+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T11:54:18.4159603+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T11:54:18.4246417+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T11:54:18.4168164+05:30"}}
+{"Timestamp":"2024-07-09T11:54:40.5604097+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-09T11:54:40.5923990+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WL3002A"}
+{"Timestamp":"2024-07-09T11:57:50.4941616+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WL3002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T12:00:04.7383949+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6WL4000A"}
+{"Timestamp":"2024-07-09T12:01:59.4824244+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T12:01:59.5481506+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T12:02:00.4130374+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T12:02:00.4428516+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T12:02:00.4518641+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T12:02:00.4437389+05:30"}}
+{"Timestamp":"2024-07-09T12:02:26.8816031+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-09T12:02:26.8867616+05:30","Level":"Information","MessageTemplate":"Payload OBID:6WL6002A"}
+{"Timestamp":"2024-07-09T12:02:26.8920333+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6WL6002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T12:02:48.9126468+05:30","Level":"Information","MessageTemplate":"Save Markup is completed successfully - value 6WL7000A"}
+{"Timestamp":"2024-07-09T12:52:50.5425796+05:30","Level":"Information","MessageTemplate":"Begin: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-07-09T12:52:50.5437975+05:30","Level":"Information","MessageTemplate":"Payload OBID:6PHH0BEA"}
+{"Timestamp":"2024-07-09T12:52:51.8090505+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6PHH0BEA')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SDADocumentRenditions_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T12:52:53.5611092+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\P-01-A.pdf.pdf'."}
+{"Timestamp":"2024-07-09T12:52:53.9563466+05:30","Level":"Information","MessageTemplate":"UploadLargeFile: File C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\P-01-A.pdf.pdf is splitted into no of Parts 1"}
+{"Timestamp":"2024-07-09T12:52:55.7024106+05:30","Level":"Information","MessageTemplate":"P-01-A.pdf.pdf - File successfully attached to document. \\n End: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-07-09T12:53:07.6402160+05:30","Level":"Information","MessageTemplate":"Exiting Process Step Completed --- MPLCopyRenditionFileToDocument"}
+{"Timestamp":"2024-07-09T13:02:00.4892071+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-09T13:02:00.4897697+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-09T13:02:00.4898077+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-09T13:02:00.5440882+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T13:02:00.5459711+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-09T14:02:00.6019471+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-09T14:02:00.6031112+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-09T14:02:00.6031504+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-09T14:02:00.6717408+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T14:02:00.6723594+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-09T14:34:44.1220965+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-09T14:34:44.2057218+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-09T14:34:45.5070934+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-09T14:34:45.5689285+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-09T14:34:45.5779907+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-09T14:34:45.5698269+05:30"}}
+{"Timestamp":"2024-07-09T14:34:48.7737863+05:30","Level":"Information","MessageTemplate":"Begin: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-07-09T14:34:48.7793491+05:30","Level":"Information","MessageTemplate":"Payload OBID:6PHH1M2A"}
+{"Timestamp":"2024-07-09T14:34:49.4744316+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6PHH1M2A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SDADocumentRenditions_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-07-09T14:34:53.3501047+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\P-01-A.pdf.pdf'."}
+{"Timestamp":"2024-07-09T14:34:53.7554147+05:30","Level":"Information","MessageTemplate":"UploadLargeFile: File C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\P-01-A.pdf.pdf is splitted into no of Parts 1"}
+{"Timestamp":"2024-07-09T14:34:55.2626753+05:30","Level":"Information","MessageTemplate":"P-01-A.pdf.pdf - File successfully attached to document. \\n End: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-07-09T14:35:06.9238219+05:30","Level":"Information","MessageTemplate":"Exiting Process Step Completed --- MPLCopyRenditionFileToDocument"}

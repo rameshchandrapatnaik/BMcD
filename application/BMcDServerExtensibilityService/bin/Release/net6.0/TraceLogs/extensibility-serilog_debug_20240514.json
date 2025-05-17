@@ -1,0 +1,6 @@
+{"Timestamp":"2024-05-14T14:56:46.8923580+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-05-14T14:56:46.9831948+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-05-14T14:56:48.9228078+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-05-14T14:56:48.9841308+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-05-14T14:56:48.9928362+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-05-14T14:56:48.9849919+05:30"}}
+{"Timestamp":"2024-05-14T14:57:15.4264640+05:30","Level":"Information","MessageTemplate":"Begin: SPFSchedulerTask "}

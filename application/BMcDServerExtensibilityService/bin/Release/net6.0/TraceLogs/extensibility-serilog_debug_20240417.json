@@ -1,0 +1,42 @@
+{"Timestamp":"2024-04-17T14:52:01.9447438+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-04-17T14:52:02.0432215+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-04-17T14:52:03.5353184+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-04-17T14:52:03.5671061+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-04-17T14:52:03.5420847+05:30"}}
+{"Timestamp":"2024-04-17T14:54:11.8022851+05:30","Level":"Information","MessageTemplate":"Begin: MPLDeleteTransmittalOnDocRev-Execute"}
+{"Timestamp":"2024-04-17T14:55:05.0498680+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-04-17T14:55:05.1221582+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-04-17T14:55:05.9400328+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-04-17T15:09:26.8232058+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-04-17T15:09:26.8914794+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-04-17T15:09:27.7053060+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-04-17T15:10:45.9009282+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-04-17T15:10:45.9902283+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-04-17T15:10:46.8073632+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-04-17T15:12:07.4295302+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-04-17T15:12:07.5018666+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-04-17T15:12:08.2398395+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-04-17T15:12:08.2538703+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-04-17T15:12:08.2449043+05:30"}}
+{"Timestamp":"2024-04-17T15:12:35.2500656+05:30","Level":"Information","MessageTemplate":"Begin: MPLDeleteTransmittalOnDocRev-Execute"}
+{"Timestamp":"2024-04-17T15:12:53.4244121+05:30","Level":"Information","MessageTemplate":"Payload User:Radheshyam.Yadav1"}
+{"Timestamp":"2024-04-17T15:13:02.6292233+05:30","Level":"Information","MessageTemplate":"Submittal OBID : 6REX000A"}
+{"Timestamp":"2024-04-17T15:13:06.8125384+05:30","Level":"Information","MessageTemplate":"Transmittal Request:http://in-adanisdxvm1.ingrnet.com/MPLP2_1Server/api/v2/SDA/Objects('6REX000A')?$expand=SCLBSubmittalDocumentVersions_12($expand=SPFRevisionVersions_21($expand=MPLDocumentRevTransmittal_12))"}
+{"Timestamp":"2024-04-17T15:19:13.7518120+05:30","Level":"Information","MessageTemplate":"Transmittal Response:System.Collections.Generic.List`1[MPLServerExtensibilityService.Custom.Models.SCLBSubmittalDocumentVersions12]"}
+{"Timestamp":"2024-04-17T15:19:46.8262326+05:30","Level":"Information","MessageTemplate":"Transmittal OBID list values : System.Collections.Generic.HashSet`1[System.String]"}
+{"Timestamp":"2024-04-17T15:19:47.8186112+05:30","Level":"Information","MessageTemplate":"Transmittal Issue State:SUBMITTED, submitted item"}
+{"Timestamp":"2024-04-17T15:19:56.1230191+05:30","Level":"Information","MessageTemplate":"Delete Transmittal Batch Request Initiated for : 6REZ049A"}
+{"Timestamp":"2024-04-17T15:19:56.6358058+05:30","Level":"Information","MessageTemplate":"batch request body:::::--batch_68b7f2e0-afe4-44a6-89d4-3acbaeb7210c\r\nContent-Type: multipart/mixed; boundary=changeset_1f4e117e-f8d6-4c8c-809b-c9c76a696311\r\nContent-Transfer-Encoding: binary\r\n\r\n--changeset_1f4e117e-f8d6-4c8c-809b-c9c76a696311\r\nContent-Type: application/http\r\nContent-Transfer-Encoding: binary\r\nContent-ID: 0\r\n\r\nDELETE http://in-adanisdxvm1.ingrnet.com/MPLP2_1Server/api/v2/SDA/Objects('6RFH00IA') HTTP/1.1\r\nAccept: application/vnd.intergraph.data+json\r\nspfconfiguid:PR_Green_PVC\r\nSPFDeleteTransition: Deleted\r\nX-Ingr-OnBehalfOf: Radheshyam.Yadav1\r\n\r\n"}
+{"Timestamp":"2024-04-17T15:19:57.5355534+05:30","Level":"Information","MessageTemplate":"Delete Request Result : STATUS CODE : OK CONTENT:--batchresponse_4dfff11b-229b-412f-861f-4c7d46ebed9d\r\nContent-Type: multipart/mixed; boundary=changesetresponse_ce5cd1cc-a776-4792-b66b-29b5fe00ada2\r\n\r\n--changesetresponse_ce5cd1cc-a776-4792-b66b-29b5fe00ada2\r\nContent-Type: application/http\r\nContent-Transfer-Encoding: binary\r\nContent-ID: 0\r\n\r\nHTTP/1.1 204 No Content\r\nCache-Control: no-cache\r\nX-Correlation-ID: 1163a5f8-2ab9-4086-b4b9-ee86e9880207\r\n\r\n\r\n--changesetresponse_ce5cd1cc-a776-4792-b66b-29b5fe00ada2--\r\n--batchresponse_4dfff11b-229b-412f-861f-4c7d46ebed9d--\r\nTrue"}
+{"Timestamp":"2024-04-17T15:19:59.1420982+05:30","Level":"Information","MessageTemplate":"Delete Transmittal Batch Request Completed for : 6REZ049A"}
+{"Timestamp":"2024-04-17T15:20:00.7086614+05:30","Level":"Information","MessageTemplate":"signoffstep initiated - Step OBID : 6REZ049A"}
+{"Timestamp":"2024-04-17T15:21:10.0974080+05:30","Level":"Information","MessageTemplate":"ReceiverLink has closed, recreating ReceiverLink"}
+{"Timestamp":"2024-04-17T15:21:10.0987641+05:30","Level":"Information","MessageTemplate":"Session has closed, recreating session"}
+{"Timestamp":"2024-04-17T15:21:10.0989054+05:30","Level":"Information","MessageTemplate":"Connection has closed, recreating connection"}
+{"Timestamp":"2024-04-17T15:26:34.8536977+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-04-17T15:26:34.9257719+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-04-17T15:26:35.7281408+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-04-17T15:26:35.7414040+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-04-17T15:26:35.7330626+05:30"}}
+{"Timestamp":"2024-04-17T15:27:36.2436689+05:30","Level":"Information","MessageTemplate":"Begin: MPLDeleteTransmittalOnDocRev-Execute"}
+{"Timestamp":"2024-04-17T15:27:42.9720047+05:30","Level":"Information","MessageTemplate":"Payload User:Radheshyam.Yadav1"}
+{"Timestamp":"2024-04-17T15:27:48.0891104+05:30","Level":"Information","MessageTemplate":"Submittal OBID : 6RFR000A"}
+{"Timestamp":"2024-04-17T15:27:50.0971020+05:30","Level":"Information","MessageTemplate":"Transmittal Request:http://in-adanisdxvm1.ingrnet.com/MPLP2_1Server/api/v2/SDA/Objects('6RFR000A')?$expand=SCLBSubmittalDocumentVersions_12($expand=SPFRevisionVersions_21($expand=MPLDocumentRevTransmittal_12))"}
+{"Timestamp":"2024-04-17T15:28:42.1900124+05:30","Level":"Information","MessageTemplate":"Transmittal Response:System.Collections.Generic.List`1[MPLServerExtensibilityService.Custom.Models.SCLBSubmittalDocumentVersions12]"}

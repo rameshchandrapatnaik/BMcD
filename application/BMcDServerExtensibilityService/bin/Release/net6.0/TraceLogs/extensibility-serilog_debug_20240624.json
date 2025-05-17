@@ -1,0 +1,104 @@
+{"Timestamp":"2024-06-24T15:53:19.5854928+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T15:53:19.6661741+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T15:53:21.0987237+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T15:53:21.1654807+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T15:53:21.1750009+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T15:53:21.1663797+05:30"}}
+{"Timestamp":"2024-06-24T16:05:51.5587522+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-24T16:06:03.5308056+05:30","Level":"Information","MessageTemplate":"Payload OBID:6ULZ01MA"}
+{"Timestamp":"2024-06-24T16:06:04.9971050+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6ULX000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-24T16:06:34.6378708+05:30","Level":"Information","MessageTemplate":"Created directory: C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal"}
+{"Timestamp":"2024-06-24T16:06:56.7917025+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54.csv'."}
+{"Timestamp":"2024-06-24T16:07:33.4505969+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54_Create.csv'."}
+{"Timestamp":"2024-06-24T16:07:37.6649948+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\6d30b536-1607-40c7-9170-7ec6d3239bfb.xlsx'."}
+{"Timestamp":"2024-06-24T16:41:05.1041360+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T16:41:05.1820702+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T16:41:06.4343963+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T16:41:06.4634236+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T16:41:06.4725248+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T16:41:06.4642886+05:30"}}
+{"Timestamp":"2024-06-24T16:41:45.7470410+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-24T16:41:47.9639221+05:30","Level":"Information","MessageTemplate":"Payload OBID:6UT301MA"}
+{"Timestamp":"2024-06-24T16:41:48.4154099+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6UT1000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-24T16:42:09.9621645+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T16:42:10.0347295+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T16:42:10.7929959+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T16:42:10.8241214+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T16:42:10.8332717+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T16:42:10.8249998+05:30"}}
+{"Timestamp":"2024-06-24T16:45:30.3030833+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-24T16:45:30.3081745+05:30","Level":"Information","MessageTemplate":"Payload OBID:6UTL01MA"}
+{"Timestamp":"2024-06-24T16:45:30.3084909+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6UTJ000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-24T16:45:47.0000543+05:30","Level":"Information","MessageTemplate":"Error in handling event from server","Exception":"System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.\r\n ---> System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal_24-06-2024 16:45:30'\r\n   at MPLServerExtensibilityService.Custom.ProcessSteps.CustomValidationStep.Execute(ExtensibilityODataClient extensibilityODataClient, Object body)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)\r\n   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\r\n   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)\r\n   at MPLServerExtensibilityService.Core.ExtensibilityEventHandler.CallCustomCode(ExtensibilityODataClient extensibilityODataClient, String eventType, List`1 filesToMatch, Object body)\r\n   at MPLServerExtensibilityService.Core.ExtensibilityEventHandler.ProcessEventMessage(ExtensibilityODataClient extensibilityODataClient, String subject, Object body)"}
+{"Timestamp":"2024-06-24T16:46:12.8971434+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T16:46:12.9697903+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T16:46:13.7843628+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T16:46:13.8128829+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T16:46:13.8221345+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T16:46:13.8137706+05:30"}}
+{"Timestamp":"2024-06-24T16:51:00.2006934+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-24T16:51:03.2479174+05:30","Level":"Information","MessageTemplate":"Payload OBID:6UU301MA"}
+{"Timestamp":"2024-06-24T16:51:04.0355041+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6UU1000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-24T17:00:22.0612937+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T17:00:22.1410259+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T17:00:23.4536370+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T17:00:23.5124260+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T17:00:23.5217308+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T17:00:23.5133243+05:30"}}
+{"Timestamp":"2024-06-24T17:02:21.9750267+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-24T17:03:56.9776276+05:30","Level":"Information","MessageTemplate":"Payload OBID:6UUL01MA"}
+{"Timestamp":"2024-06-24T17:03:57.9955317+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6UUJ000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-24T17:04:04.4451760+05:30","Level":"Information","MessageTemplate":"Created directory: C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal"}
+{"Timestamp":"2024-06-24T17:04:15.5507141+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54.csv'."}
+{"Timestamp":"2024-06-24T17:04:18.7484122+05:30","Level":"Information","MessageTemplate":"Successfully read the CSV file into a DataTable. Rows: 2"}
+{"Timestamp":"2024-06-24T17:09:15.2342779+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T17:09:15.3099509+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T17:09:16.0763868+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T17:09:16.1084014+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T17:09:16.1179062+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T17:09:16.1092703+05:30"}}
+{"Timestamp":"2024-06-24T18:09:16.1665256+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-06-24T18:09:16.1688115+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-06-24T18:09:16.1688424+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-06-24T18:09:16.2990429+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T18:09:16.3010359+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-06-24T18:13:32.9631476+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-24T18:13:32.9705589+05:30","Level":"Information","MessageTemplate":"Payload OBID:6UWP01MA"}
+{"Timestamp":"2024-06-24T18:13:32.9708974+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6UWN000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-24T18:14:44.2981277+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54.csv'."}
+{"Timestamp":"2024-06-24T18:14:47.4358946+05:30","Level":"Information","MessageTemplate":"Successfully read the CSV file into a DataTable. Rows: 2"}
+{"Timestamp":"2024-06-24T18:14:57.5541338+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54_Create.csv'."}
+{"Timestamp":"2024-06-24T18:15:01.1575090+05:30","Level":"Information","MessageTemplate":"Successfully read the CSV file into a DataTable. Rows: 2"}
+{"Timestamp":"2024-06-24T18:15:06.7769670+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\a361a311-269b-406a-904d-a905b3bf05c8.xlsx'."}
+{"Timestamp":"2024-06-24T18:15:10.7439510+05:30","Level":"Information","MessageTemplate":"Successfully cleared the directory: C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal"}
+{"Timestamp":"2024-06-24T18:15:11.5012452+05:30","Level":"Information","MessageTemplate":"Cleared all files in the submittal directory."}
+{"Timestamp":"2024-06-24T18:18:35.5478773+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T18:18:35.6242259+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T18:18:36.9217464+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T18:18:36.9815008+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T18:18:36.9905119+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T18:18:36.9825385+05:30"}}
+{"Timestamp":"2024-06-24T18:19:13.8101876+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-24T18:19:13.8151964+05:30","Level":"Information","MessageTemplate":"Payload OBID:6UX701MA"}
+{"Timestamp":"2024-06-24T18:19:13.8154106+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6UX5000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-24T18:19:14.4918008+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54.csv'."}
+{"Timestamp":"2024-06-24T18:19:14.6342471+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54_Create.csv'."}
+{"Timestamp":"2024-06-24T18:19:14.8107753+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\63cd6dd3-7191-4cc0-9030-c26a992093b8.xlsx'."}
+{"Timestamp":"2024-06-24T18:19:14.8108496+05:30","Level":"Information","MessageTemplate":"Cleared all files in the submittal directory."}
+{"Timestamp":"2024-06-24T18:19:45.0268023+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T18:19:45.0917378+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T18:19:45.8984876+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T18:19:45.9281394+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T18:19:45.9373004+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T18:19:45.9290223+05:30"}}
+{"Timestamp":"2024-06-24T18:23:41.4750557+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-24T18:23:41.4801100+05:30","Level":"Information","MessageTemplate":"Payload OBID:6UXP01MA"}
+{"Timestamp":"2024-06-24T18:23:41.4803610+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6UXN000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-24T18:23:45.9469160+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T18:23:46.0149826+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T18:23:46.8184142+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T18:23:46.8498062+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T18:23:46.8590179+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T18:23:46.8506783+05:30"}}
+{"Timestamp":"2024-06-24T18:24:05.1542941+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-24T18:24:05.2181302+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-24T18:24:06.1491661+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-24T18:24:06.1805179+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-24T18:24:06.1895310+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-24T18:24:06.1813879+05:30"}}
+{"Timestamp":"2024-06-24T18:46:30.5687340+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-24T18:46:30.5873122+05:30","Level":"Information","MessageTemplate":"Payload OBID:6UY701MA"}
+{"Timestamp":"2024-06-24T18:46:30.5875855+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6UY5000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-24T18:46:36.2059646+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54.csv'."}
+{"Timestamp":"2024-06-24T18:46:41.7205771+05:30","Level":"Information","MessageTemplate":"Successfully read the CSV file into a DataTable. Rows: 2"}
+{"Timestamp":"2024-06-24T18:47:14.4985012+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54_Create.csv'."}

@@ -1,0 +1,28 @@
+{"Timestamp":"2024-06-20T19:15:42.8151186+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-20T19:15:42.8983207+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-20T19:15:43.4520776+05:30","Level":"Information","MessageTemplate":"An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set."}
+{"Timestamp":"2024-06-20T19:17:29.9685447+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-20T19:17:30.0439442+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-20T19:17:31.1629787+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-20T19:17:31.2416349+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-20T19:17:31.2504795+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-20T19:17:31.2424949+05:30"}}
+{"Timestamp":"2024-06-20T20:17:31.2987656+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-06-20T20:17:31.3014817+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-06-20T20:17:31.3015132+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-06-20T20:17:31.7713926+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-20T20:17:31.7735047+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-06-20T21:17:31.8138431+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-06-20T21:17:31.8141767+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-06-20T21:17:31.8142019+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-06-20T21:17:41.5313280+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-20T21:17:41.5316889+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-06-20T22:17:41.5786107+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-06-20T22:17:41.5789811+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-06-20T22:17:41.5790096+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-06-20T22:17:51.1314177+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-20T22:17:51.1317777+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-06-20T23:17:51.1779454+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-06-20T23:17:51.1782767+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-06-20T23:17:51.1783154+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-06-20T23:18:00.5961133+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-20T23:18:00.5965039+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}

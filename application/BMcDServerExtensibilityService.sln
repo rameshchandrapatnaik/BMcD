@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMcDServerExtensibilityService", "BMcDServerExtensibilityService\BMcDServerExtensibilityService.csproj", "{FCC95E52-B93F-4A76-A785-31112CD657FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		NEW CF|Any CPU = NEW CF|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC95E52-B93F-4A76-A785-31112CD657FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC95E52-B93F-4A76-A785-31112CD657FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC95E52-B93F-4A76-A785-31112CD657FD}.NEW CF|Any CPU.ActiveCfg = NEW CF|Any CPU
+		{FCC95E52-B93F-4A76-A785-31112CD657FD}.NEW CF|Any CPU.Build.0 = NEW CF|Any CPU
+		{FCC95E52-B93F-4A76-A785-31112CD657FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC95E52-B93F-4A76-A785-31112CD657FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA72014-75EF-4CE2-9B93-95A547DC4E4B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{"Timestamp":"2024-05-15T15:56:15.5667394+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-05-15T15:56:15.6935723+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-05-15T15:56:26.0737480+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-05-15T15:56:26.1340244+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-05-15T15:56:26.1428224+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-05-15T15:56:26.1349134+05:30"}}
+{"Timestamp":"2024-05-15T15:57:52.2129530+05:30","Level":"Information","MessageTemplate":"Begin: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-05-15T15:57:55.8826112+05:30","Level":"Error","MessageTemplate":"Exception occurred while executing MPLCopyRenditionFileToDocument WF Step.Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') --    at System.Collections.Generic.List`1.get_Item(Int32 index)\r\n   at MPLServerExtensibilityService.Custom.ProcessSteps.MPLCopyRenditionFileToDocument.Execute(ExtensibilityODataClient extensibilityODataClient, Object body) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\ProcessSteps\\MPLCopyRenditionFileToDocument.cs:line 38"}
+{"Timestamp":"2024-05-15T16:01:15.1137622+05:30","Level":"Information","MessageTemplate":"Begin: SPFSchedulerTask "}

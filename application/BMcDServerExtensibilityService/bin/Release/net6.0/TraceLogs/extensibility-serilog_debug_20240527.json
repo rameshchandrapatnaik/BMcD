@@ -1,0 +1,64 @@
+{"Timestamp":"2024-05-27T11:21:05.0017166+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-05-27T11:21:05.1523773+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-05-27T11:21:07.0238137+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-05-27T11:21:07.0882155+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-05-27T11:21:07.0977208+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-05-27T11:21:07.0892095+05:30"}}
+{"Timestamp":"2024-05-27T11:22:30.4154041+05:30","Level":"Information","MessageTemplate":"Begin: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-05-27T11:22:37.8465410+05:30","Level":"Information","MessageTemplate":"Payload OBID:6PAP022A"}
+{"Timestamp":"2024-05-27T11:22:52.8130891+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v3//SDA/Objects('6PAP022A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SDADocumentRenditions_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-05-27T11:23:21.7972370+05:30","Level":"Error","MessageTemplate":"Error in QuerySPFData.","Exception":"System.Exception: Exception of type 'System.Exception' was thrown.\r\n   at MPLServerExtensibilityService.Custom.Utilities.HelperRepository.QuerySPFData(String pstrURL, String pstrConfigUID, String pstrAcceptParameter) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\Utilities\\HelperRepository.cs:line 214"}
+{"Timestamp":"2024-05-27T11:24:06.5833060+05:30","Level":"Error","MessageTemplate":"Exception occurred while executing MPLCopyRenditionFileToDocument WF Step.Object reference not set to an instance of an object. --    at MPLServerExtensibilityService.Custom.ProcessSteps.MPLCopyRenditionFileToDocument.Execute(ExtensibilityODataClient extensibilityODataClient, Object body) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\ProcessSteps\\MPLCopyRenditionFileToDocument.cs:line 43"}
+{"Timestamp":"2024-05-27T11:37:28.2786656+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-05-27T11:37:28.3480128+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-05-27T11:37:29.1276855+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-05-27T11:37:29.1571707+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-05-27T11:37:29.1678145+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-05-27T11:37:29.1581169+05:30"}}
+{"Timestamp":"2024-05-27T11:37:36.2238293+05:30","Level":"Information","MessageTemplate":"Begin: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-05-27T11:37:39.0434170+05:30","Level":"Information","MessageTemplate":"Payload OBID:6PAP0BEA"}
+{"Timestamp":"2024-05-27T11:37:40.7332220+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA//Objects('6PAP0BEA')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SDADocumentRenditions_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-05-27T11:38:59.3983227+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ashaik3\\AppData\\Local\\Temp\\2\\P-01-A.pdf.pdf'."}
+{"Timestamp":"2024-05-27T11:39:01.5861031+05:30","Level":"Information","MessageTemplate":"P-01-A.pdf.pdf - File successfully attached to document. \\n End: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-05-27T11:39:39.4793543+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-05-27T11:39:39.5501817+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-05-27T11:39:40.3450456+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-05-27T11:39:40.3745197+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-05-27T11:39:40.3851324+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-05-27T11:39:40.3760528+05:30"}}
+{"Timestamp":"2024-05-27T11:40:33.2955280+05:30","Level":"Information","MessageTemplate":"Begin: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-05-27T11:40:35.8662816+05:30","Level":"Information","MessageTemplate":"Payload OBID:6PHH2E2A"}
+{"Timestamp":"2024-05-27T11:40:36.6996347+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDV/Objects('6PHH2E2A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SDADocumentRenditions_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-05-27T11:40:54.1926857+05:30","Level":"Error","MessageTemplate":"Error in QuerySPFData.","Exception":"System.Exception: Exception of type 'System.Exception' was thrown.\r\n   at MPLServerExtensibilityService.Custom.Utilities.HelperRepository.QuerySPFData(String pstrURL, String pstrConfigUID, String pstrAcceptParameter) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\Utilities\\HelperRepository.cs:line 214"}
+{"Timestamp":"2024-05-27T11:41:06.3563943+05:30","Level":"Error","MessageTemplate":"Exception occurred while executing MPLCopyRenditionFileToDocument WF Step.Object reference not set to an instance of an object. --    at MPLServerExtensibilityService.Custom.ProcessSteps.MPLCopyRenditionFileToDocument.Execute(ExtensibilityODataClient extensibilityODataClient, Object body) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\ProcessSteps\\MPLCopyRenditionFileToDocument.cs:line 43"}
+{"Timestamp":"2024-05-27T12:39:40.4286085+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-05-27T12:39:40.4311702+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-05-27T12:39:40.4312109+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-05-27T12:39:40.8932834+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-05-27T12:39:40.8952066+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-05-27T13:39:40.9427320+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-05-27T13:39:40.9431227+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-05-27T13:39:40.9431626+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-05-27T13:39:41.0540421+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-05-27T13:39:41.0546828+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-05-27T16:03:43.8971237+05:30","Level":"Information","MessageTemplate":"Begin: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-05-27T16:03:43.9007985+05:30","Level":"Information","MessageTemplate":"Payload OBID:6PUA0BEA"}
+{"Timestamp":"2024-05-27T16:03:47.1760289+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDV/Objects('6PUA0BEA')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SDADocumentRenditions_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-05-27T16:03:51.9490825+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-05-27T16:03:51.9504407+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-05-27T16:03:51.9504757+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-05-27T16:03:51.9679085+05:30","Level":"Information","MessageTemplate":"Skipped Token Renewal"}
+{"Timestamp":"2024-05-27T16:03:52.1111573+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-05-27T16:03:52.1118583+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-05-27T16:03:52.1503311+05:30","Level":"Error","MessageTemplate":"Error in QuerySPFData.","Exception":"System.Exception: Exception of type 'System.Exception' was thrown.\r\n   at MPLServerExtensibilityService.Custom.Utilities.HelperRepository.QuerySPFData(String pstrURL, String pstrConfigUID, String pstrAcceptParameter)"}
+{"Timestamp":"2024-05-27T16:04:27.2888186+05:30","Level":"Information","MessageTemplate":"Payload OBID:6PUA0BEA"}
+{"Timestamp":"2024-05-27T16:04:30.0910156+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6PUA0BEA')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SDADocumentRenditions_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-05-27T16:04:32.0036822+05:30","Level":"Error","MessageTemplate":"Error in QuerySPFData.","Exception":"System.Exception: Exception of type 'System.Exception' was thrown.\r\n   at MPLServerExtensibilityService.Custom.Utilities.HelperRepository.QuerySPFData(String pstrURL, String pstrConfigUID, String pstrAcceptParameter)"}
+{"Timestamp":"2024-05-27T16:08:01.0627096+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-05-27T16:08:01.1411125+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-05-27T16:08:02.3692813+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-05-27T16:08:02.4317748+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-05-27T16:08:02.4408135+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-05-27T16:08:02.4326321+05:30"}}
+{"Timestamp":"2024-05-27T16:08:11.7275138+05:30","Level":"Information","MessageTemplate":"Begin: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-05-27T16:08:11.7334967+05:30","Level":"Information","MessageTemplate":"Payload OBID:6PHH4Q2A"}
+{"Timestamp":"2024-05-27T16:08:15.4324002+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6PHH4Q2A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SDADocumentRenditions_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21)))"}
+{"Timestamp":"2024-05-27T16:08:27.5930097+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ashaik3\\AppData\\Local\\Temp\\2\\P-01-A.pdf.pdf'."}
+{"Timestamp":"2024-05-27T16:10:51.2653981+05:30","Level":"Information","MessageTemplate":"P-01-A.pdf.pdf - File successfully attached to document. \\n End: MPLCopyRenditionFileToDocument-Execute"}
+{"Timestamp":"2024-05-27T16:11:02.6354542+05:30","Level":"Information","MessageTemplate":"Exiting Process Step Completed --- MPLCopyRenditionFileToDocument"}

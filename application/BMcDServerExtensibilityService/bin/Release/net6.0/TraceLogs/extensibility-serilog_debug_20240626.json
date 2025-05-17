@@ -1,0 +1,15 @@
+{"Timestamp":"2024-06-26T11:14:38.4168534+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-26T11:14:38.5069186+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-26T11:14:39.8580581+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-26T11:14:39.9579912+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-26T11:14:39.9680681+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-26T11:14:39.9589929+05:30"}}
+{"Timestamp":"2024-06-26T11:17:06.0434631+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-26T11:17:06.0542055+05:30","Level":"Information","MessageTemplate":"Payload OBID:6V8O01MA"}
+{"Timestamp":"2024-06-26T11:17:06.0544642+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6V8M000A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-26T11:18:04.7645360+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54.csv'."}
+{"Timestamp":"2024-06-26T11:20:32.6540586+05:30","Level":"Information","MessageTemplate":"Successfully read the CSV file into a DataTable. Rows: 2"}
+{"Timestamp":"2024-06-26T11:21:43.1433461+05:30","Level":"Information","MessageTemplate":"Successfully read the CSV file into a DataTable. Rows: 2"}
+{"Timestamp":"2024-06-26T11:23:10.0755527+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\01.Engineering_Deliverable_2024-02-09 13-15-54_Create.csv'."}
+{"Timestamp":"2024-06-26T11:23:14.7935011+05:30","Level":"Information","MessageTemplate":"Successfully read the CSV file into a DataTable. Rows: 2"}
+{"Timestamp":"2024-06-26T11:23:24.9752000+05:30","Level":"Information","MessageTemplate":"Successfully downloaded the file as 'C:\\Users\\ahkotha\\AppData\\Local\\Temp\\2\\Submittal\\c3eaef7b-7deb-48e5-b7a7-ba63a6175fec.xlsx'."}
+{"Timestamp":"2024-06-26T11:23:31.6311352+05:30","Level":"Information","MessageTemplate":"Cleared all files in the submittal directory."}

@@ -1,0 +1,28 @@
+{"Timestamp":"2024-07-30T11:51:09.0258867+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-30T11:51:09.1030940+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-30T11:51:09.6927578+05:30","Level":"Information","MessageTemplate":"An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set."}
+{"Timestamp":"2024-07-30T12:50:52.2666860+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-07-30T12:50:52.3303321+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-07-30T12:50:54.9877178+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-30T12:50:55.2917941+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-07-30T12:50:55.3005317+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-07-30T12:50:55.2926333+05:30"}}
+{"Timestamp":"2024-07-30T12:51:57.0991070+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-07-30T12:51:57.1095219+05:30","Level":"Information","MessageTemplate":"Payload OBID:CNW6002A"}
+{"Timestamp":"2024-07-30T12:51:57.1097363+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CNW6002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SCLBDocRevReviews_12($expand=SPFFileComposition_21),SPFRevisionVersions_12($filter=SPFIsDocVersionSuperseded eq false;$expand=SPFFileComposition_21),SPFDocumentRevisions_21($expand=SPFPrimaryClassification_21)))"}
+{"Timestamp":"2024-07-30T12:52:12.2766571+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm2.ingrnet.com/MPLDev_1Server/api/v2/SDA/Objects('CNW7000A')?$expand=SPFItemOwner_12"}
+{"Timestamp":"2024-07-30T12:55:34.9603313+05:30","Level":"Error","MessageTemplate":"Exception occurred while executing AutoStamp on consolidated document WF Step.Could not find file 'D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\AutpStamp_Resource\\Design drawing\\3-Not Approved  Resubmit.xfdf'. --    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)\r\n   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\r\n   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\r\n   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\r\n   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)\r\n   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)\r\n   at System.IO.File.InternalReadAllText(String path, Encoding encoding)\r\n   at System.IO.File.ReadAllText(String path)\r\n   at MPLServerExtensibilityService.Custom.ProcessSteps.MPLAutoStampingBasedOnReturnCode.Execute(ExtensibilityODataClient extensibilityODataClient, Object body) in D:\\Abdul\\MPLServerExtensibilityService\\MPLServerExtensibilityService\\Custom\\ProcessSteps\\MPLAutoStampingBasedOnReturnCode.cs:line 138"}
+{"Timestamp":"2024-07-30T13:50:55.3346392+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-30T13:50:55.3352757+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-30T13:50:55.3353093+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-30T13:50:55.7208215+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-30T13:50:55.7225631+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-30T14:50:55.7580724+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-30T14:50:55.7583932+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-30T14:50:55.7584211+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-30T14:50:56.2098485+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-30T14:50:56.2103565+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}
+{"Timestamp":"2024-07-30T15:50:56.2553441+05:30","Level":"Information","MessageTemplate":"Renewing Token...."}
+{"Timestamp":"2024-07-30T15:50:56.2557008+05:30","Level":"Information","MessageTemplate":"Token expiring obtaining new one..."}
+{"Timestamp":"2024-07-30T15:50:56.2557432+05:30","Level":"Information","MessageTemplate":"Using client credentials flow..."}
+{"Timestamp":"2024-07-30T15:50:56.5990519+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-07-30T15:50:56.5999270+05:30","Level":"Information","MessageTemplate":"Token Expires in Seconds....3600"}

@@ -1,0 +1,17 @@
+{"Timestamp":"2024-06-28T16:46:28.4540819+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-28T16:46:28.5547091+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-28T16:46:30.9861646+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-28T16:46:31.0544065+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-28T16:46:31.0638711+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-28T16:46:31.0553772+05:30"}}
+{"Timestamp":"2024-06-28T16:47:51.7717072+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-28T16:47:57.6302106+05:30","Level":"Information","MessageTemplate":"Payload OBID:6VGE002A"}
+{"Timestamp":"2024-06-28T17:21:14.6311555+05:30","Level":"Information","MessageTemplate":"Extensibility Service Starting Up..."}
+{"Timestamp":"2024-06-28T17:21:14.7098537+05:30","Level":"Information","MessageTemplate":"Loaded system configuration ..."}
+{"Timestamp":"2024-06-28T17:21:15.9907173+05:30","Level":"Information","MessageTemplate":"Token obtained successfully"}
+{"Timestamp":"2024-06-28T17:21:16.0553311+05:30","Level":"Information","MessageTemplate":"Started Timer for Authentication: Token will be renewed in (seconds)3600"}
+{"Timestamp":"2024-06-28T17:21:16.0652976+05:30","Level":"Information","MessageTemplate":"Worker running at: {time}","Properties":{"time":"2024-06-28T17:21:16.0564217+05:30"}}
+{"Timestamp":"2024-06-28T17:21:23.7833613+05:30","Level":"Information","MessageTemplate":"Begin: CustomValidationStep - Execute"}
+{"Timestamp":"2024-06-28T17:21:29.6188860+05:30","Level":"Information","MessageTemplate":"Payload OBID:6VGH002A"}
+{"Timestamp":"2024-06-28T17:21:56.4415694+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6VGH002A')?$expand=SPFFileComposition_21"}
+{"Timestamp":"2024-06-28T17:26:29.2429327+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6VGH002A')?$expand=SPFFileComposition_12"}
+{"Timestamp":"2024-06-28T17:37:39.6348894+05:30","Level":"Information","MessageTemplate":"Request URI:http://in-adanisdxvm1.ingrnet.com/MPL_P2_3Server/api/v2/SDA/Objects('6VGH002A')?$expand=SPFWorkflowWorkflowStep_21($expand=SPFItemWorkflow_21($expand=SPFRevisionVersions_12($expand=SPFFileComposition_21)))"}
